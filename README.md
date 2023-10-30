@@ -1,16 +1,12 @@
 # midterm_faradisha_ti3i
 
-A new Flutter project.
+Faradisha Aldina Putri
+TI - 3i
+2141720159
 
-## Getting Started
+Mobile Programming Mid Term Exam
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Key Point
+•	Splash Screen: Create a very simple splash screen with progress bar and your icon. This progress bar indicated to API calling time and after done progress bar, we will navigate to Login Screen.
+•	Login Screen: We have intro a very simple login screen with email and password.
+•	Sign Up Screen: In Sign Up screen, we have set up the sign up creation.
